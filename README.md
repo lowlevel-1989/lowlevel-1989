@@ -19,7 +19,7 @@ I document everything step by step (in Spanish) on my blog: **[lowlevel1989.clic
 
 ## Contributing to
 
-- **[PortMaster](https://github.com/PortsMaster/PortMaster-New)**: I'm part of the team. I package and maintain ports for Linux handhelds.
+- **[PortMaster](https://portmaster.games/porter/?name=lowlevel.1989)**: I'm a porter: I package and maintain game ports for Linux handhelds.
 - **[RetroPie](https://github.com/RetroPie/RetroPie-Setup)**: dbar4gun install module for RetroPie-Setup, so light guns work out of the box.
 - **[MAME (libretro)](https://github.com/libretro/mame)**: fixed the default crosshair path, which matters for light gun setups.
 - **[LinApple](https://github.com/linappleii/linapple)** (Apple II emulator): disk / HDD eject support, Spanish keyboard layout and build fixes for Fedora / RHEL.
