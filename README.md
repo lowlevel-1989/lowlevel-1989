@@ -9,6 +9,7 @@ I document everything step by step (in Spanish) on my blog: **[lowlevel1989.clic
 ## Projects
 
 - **[dbar4gun](https://github.com/lowlevel-1989/dbar4gun)**: Linux userspace driver that turns Wiimotes + a DolphinBar (or a Wii sensor bar) into light guns. Built for Raspberry Pi / RetroPie, works across MAME versions.
+- **[QuixJS](https://github.com/lowlevel-1989/quixjs)**: runs JavaScript games (RPG Maker MV, PixiJS v4, vanilla JS) on Linux handhelds, without a browser and without X11. JavaScriptCore + SDL2 + OpenGL ES 2, with the browser APIs the games need written in C.
 - **[ambidextro-port](https://github.com/lowlevel-1989/ambidextro-port)**: PortMaster port of Ambidextro (Godot) for AArch64 handhelds. Virtual or native controls, a lightweight mode for low-end devices, and mod support through Godot Mod Loader.
 - **[ambidextro-mods](https://github.com/lowlevel-1989/ambidextro-mods)**: Godot mods for Ambidextro: an in-game achievements screen and snappier trampolines.
 - **[tamatama](https://github.com/lowlevel-1989/tamatama)**: runs an Android game `.so` on Linux with my own loader (QEMU x86_64 and Raspberry Pi), replacing Android calls with stubs until the whole game runs native.
